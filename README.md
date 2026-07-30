@@ -9,7 +9,6 @@ Automated trading bot for cryptocurrency markets.
 - Real-time notifications
 
 ## Installation
-
 ```bash
 git clone https://github.com/username/crypto-trading-bot.git
 cd crypto-trading-bot
