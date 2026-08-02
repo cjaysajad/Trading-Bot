@@ -2,7 +2,6 @@
 Automated trading bot for cryptocurrency markets.
 ## Features
 
-
 - Multi-exchange support (Binance, Coinbase)
 - Grid trading strategy
 - Dollar-cost averaging
