@@ -7,7 +7,6 @@ Automated trading bot for cryptocurrency markets.
 - Dollar-cost averaging
 - Stop-loss & take-profit
 - Real-time notifications
-
 ## Installation
 ```bash
 git clone https://github.com/username/crypto-trading-bot.git
